@@ -1,2 +1,2 @@
-# background_color_changer
- 
+# Background Color Changer
+- using ** addEventListener **
